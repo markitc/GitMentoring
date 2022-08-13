@@ -1,6 +1,6 @@
 # GitMentoring
 
-Welcome to the git mentoring repo!
+Welcome to the git men. oring repo!
 
 A few resources:
 Git's official website - https://git-scm.com
